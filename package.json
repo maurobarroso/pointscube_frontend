@@ -1,0 +1,22 @@
+{
+  "name": "frontend_build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurobarroso/pointscube_frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurobarroso/pointscube_frontend/issues"
+  },
+  "homepage": "https://github.com/maurobarroso/pointscube_frontend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
